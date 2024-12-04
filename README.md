@@ -1,6 +1,5 @@
-#En la raíz del proyecto:
 
-# Para correr el proyecto:
+# Para correr el proyecto, ejecute estos comandos en la raíz del proyecto:
 
 ```bash
 #Crear el entorno virtual
